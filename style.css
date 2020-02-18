@@ -68,6 +68,8 @@
     margin-bottom: 24px;
 }
 
+.btn {background-color: #4aaaa5;
+color: #dddddd;}
 
 .footer {
         position: fixed;
@@ -83,3 +85,4 @@
         border-top:#4aaaa5;
     
 }
+
