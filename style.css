@@ -1,12 +1,4 @@
 
-
-/*.section {
-    position: relative;
-    left: 20px;
-    width: 960px;
-    padding: 21px;
-    margin: 2%;*/
-
 .header {
     color: #ffff;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -17,10 +9,8 @@
     width: 236px;
     margin-right: 500px;
     margin-bottom: -8px;
-    text-align: center;
-    
+    text-align: center;   
 }
-
 
 .main {
     background-color: #ffffff;
@@ -76,7 +66,6 @@ color: #dddddd;}
         left: 0;
         bottom: 0;
         width: 100%;
-    
         color: white;
         text-align: center;
         background-color: #666666;
