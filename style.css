@@ -1,17 +1,27 @@
+
+
+/*.section {
+    position: relative;
+    left: 20px;
+    width: 960px;
+    padding: 21px;
+    margin: 2%;*/
+
 .header {
+    font-size: x-large;
+    color: #ffff;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: #ffffff;
     background-color: #4aaaa5;
     border-color: #cccccc;
-    border-style: solid;
-    border-width: medium;
-    padding: 20px;
-    margin-left: 10%;
-    width: 245px;
-    margin-right: 50px;
+    padding: 17px;
+    margin-left: 12%;
+    width: 236px;
+    margin-right: 500px;
+    margin-bottom: -8px;
     text-align: center;
     
 }
+
 
 .main {
     background-color: #ffffff;
@@ -19,31 +29,44 @@
     font-family: Arial, Helvetica, sans-serif;
     float: left;
     position: relative;
-    left: 61px;
+    left: 59px;
     width: 960px;
     padding: 22px;
     margin: 2%;
+    margin-top: -9px;
 }
 
 .photo {
     position: relative;
-    right: -47px;
-    padding-top: 13%;
+    right: -12px;
+    padding-top: 21%;
 
 }
 
 .toolbar {
-    width: 960px;
+    width: -webkit-fill-available;
+    border-bottom-style: solid;
+    border-width: medium;
+    border-color: #cccccc;
     position: relative;
-    left: 60px;
-    margin: 2%;
-
+    top: -9px;
 }
-  
+
+.h2 {
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom-style: solid;
+    border-bottom-color: #cccccc;
+}
+
+.text {padding-bottom: 40px;}
 
 .paragraph {
+    text-indent: 20px;
     margin-left: 14px;
     margin-right: 14px;
+    margin-top: 24px;
+    margin-bottom: 24px;
 }
 
 
@@ -57,5 +80,7 @@
         text-align: center;
         background-color: #666666;
         padding: 20px;
+        border-top-style: solid;
+        border-top:#4aaaa5;
     
 }
