@@ -70,8 +70,6 @@ color: #dddddd;}
         text-align: center;
         background-color: #666666;
         padding: 20px;
-        border-top-style: solid;
-        border-top:#4aaaa5;
-    
+        border-top: 8px solid #4aaaa5;
 }
 
