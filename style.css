@@ -1,6 +1,5 @@
 
 .header {
-    color: #ffff;
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: #4aaaa5;
     border-color: #cccccc;
@@ -11,34 +10,21 @@
     margin-bottom: -8px;
     text-align: center;   
 }
-
 .main {
     background-color: #ffffff;
     border-color: #dddddd;
     font-family: Arial, Helvetica, sans-serif;
-    float: left;
-    position: relative;
-    left: 59px;
-    width: 960px;
     padding: 22px;
     margin: 2%;
     margin-top: -9px;
 }
 
-.photo {
-    position: relative;
-    right: -12px;
-    padding-top: 21%;
-
-}
 
 .toolbar {
     width: -webkit-fill-available;
     border-bottom-style: solid;
     border-width: medium;
     border-color: #cccccc;
-    position: relative;
-    top: -9px;
 }
 
 .h2 {
@@ -66,10 +52,16 @@ color: #dddddd;}
         left: 0;
         bottom: 0;
         width: 100%;
-        color: white;
+        color:  #dddddd;
         text-align: center;
         background-color: #666666;
-        padding: 20px;
+       padding: 20px;
         border-top: 8px solid #4aaaa5;
 }
 
+.card-deck {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
